@@ -1,10 +1,13 @@
-#This version is designed for 2 players only.
+#This version is designed for multiple players.
+#Future change should give an upper limit (10?)
 
-#Knock Knock is a card game in which players start with 3 cards, and hold an additional card during each successive round.
-#A player wins the round when all the cards they hold are either in a set of any suit (minimum of 3; ex: 3 Queens of different suits) or
+#Knock Knock is a card game in which players start with 3 cards. Each successive round adds an additional card, all the way through 13.
+#A player wins a round when all the cards they hold are either part of:
+#a set of any suit (minimum of 3; ex: 3 Queens of different suits) or
 #a run of the same suit (minimum of 3; ex: 4,5,6 of Hearts).
 
-#Players with cards that do not belong to a set or run outlined above will have them counted against them as follows:
+#Players with cards that do not belong to a set or run outlined above will have them counted against them if another player knocks,
+#as follows:
 #1-9 = 5 points 
 #10-King = 10 points
 #Ace = 15 points
@@ -14,7 +17,6 @@
 
 
 #Game starts with 3 cards i.e. hand = 3
-
 players = {}
 hand = 3
 while True:
