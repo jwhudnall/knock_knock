@@ -1,5 +1,10 @@
+*About The Program*
+
 This is a scorekeeping program designed to keep the scores of a variable amount of players. It is meant to be run alongside 
 the actual game being physically played. 
+
+
+*About the Game*
 
 "Knock Knock" is a card game somewhat similar to gin rummy. Players start with 3 cards, and each successive round adds an additional card,
 up to (and including) 13. 
@@ -20,7 +25,7 @@ down any set(s) or run(s) they have accumulated to avoid being caught with them 
 -- 10-King = 10 points
 -- Ace = 15 points (Don't get caught!)
 
-Notes/Tips:
+*Notes/Tips*
 - Additional decks of cards can be used depending on how many players are playing. Recommended players/decks:
   * 2-3 players - 1 deck
   * 4-6 players - 2 decks
@@ -32,5 +37,5 @@ Notes/Tips:
 5 cards are held at any given time). 
 - Joker's are also considered "wild." 
 
-Future Change Considerations:
+*Future Change Considerations*
 - Add an upper limit on players (10?)
