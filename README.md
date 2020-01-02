@@ -1,9 +1,9 @@
-*About The Program*\n
+*About The Program*
 This is a scorekeeping program designed to keep the scores of a variable amount of players. It is meant to be run alongside 
 the actual game being physically played. 
 
 
-*About the Game*\n
+*About the Game*
 "Knock Knock" is a card game somewhat similar to gin rummy. Players start with 3 cards, and each successive round adds an additional card,
 up to (and including) 13. 
 
